@@ -1,0 +1,2489 @@
+INFO:root:Starting web server
+INFO:root:Launching HTTP server on 
+INFO:root:Warning: Could not aquire port:9990
+INFO:root:I will try a higher port
+INFO:root:Launching HTTP server on 
+INFO:root:Server successfully acquired the socket with port: 8080
+INFO:root:Press Ctrl+C to shut down the server and exit.
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /index.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/index.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/mars-rover.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/mars-rover.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image2.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image2.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/satellite.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/satellite.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image3.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image3.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image4.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image4.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/new-satellitedish.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/new-satellitedish.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image1.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image1.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/finding-planet.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/finding-planet.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Shutting down the server
+INFO:root:Warning: could not shut down the socket. Maybe it was already closed?[Errno 57] Socket is not connected
+INFO:root:Starting web server
+INFO:root:Launching HTTP server on 
+INFO:root:Warning: Could not aquire port:9990
+INFO:root:I will try a higher port
+INFO:root:Launching HTTP server on 
+INFO:root:Server successfully acquired the socket with port: 8080
+INFO:root:Press Ctrl+C to shut down the server and exit.
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /index.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/index.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/satellite.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/satellite.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image3.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image3.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/finding-planet.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/finding-planet.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/new-satellitedish.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/new-satellitedish.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image1.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image1.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image4.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image4.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/mars-rover.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/mars-rover.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image2.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image2.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Shutting down the server
+INFO:root:Warning: could not shut down the socket. Maybe it was already closed?[Errno 57] Socket is not connected
+INFO:root:Starting web server
+INFO:root:Launching HTTP server on 
+INFO:root:Warning: Could not aquire port:9990
+INFO:root:I will try a higher port
+INFO:root:Launching HTTP server on 
+INFO:root:Server successfully acquired the socket with port: 8080
+INFO:root:Press Ctrl+C to shut down the server and exit.
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /index.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/index.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/satellite.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/satellite.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image2.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image2.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image1.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image1.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image4.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image4.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/finding-planet.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/finding-planet.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/new-satellitedish.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/new-satellitedish.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image3.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image3.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/mars-rover.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/mars-rover.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /index.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/index.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/satellite.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/satellite.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image1.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image1.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image4.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image4.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/mars-rover.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/mars-rover.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image2.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image2.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image3.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image3.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/new-satellitedish.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/new-satellitedish.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/finding-planet.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/finding-planet.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /about.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/about.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/about.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/about.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/about.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/earth-satellite.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/about.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/earth-satellite.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/space-shuttle.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/about.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/space-shuttle.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/about.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-about.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-about.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /projects.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/about.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/projects.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/projects.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/projects.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/projects.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/space-station.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/projects.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/space-station.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/curious-rover.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/projects.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/curious-rover.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/projects.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /blog.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/projects.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/blog.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/galaxy.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/galaxy.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/alien-life.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/alien-life.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/satellite-dish.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/satellite-dish.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/moon-satellite.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/moon-satellite.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/astronaut.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/astronaut.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /contact.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/blog.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/contact.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/contact.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/contact.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/contact.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/contact.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /index.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/contact.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/index.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/satellite.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/satellite.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image1.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image1.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image2.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image2.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/mars-rover.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/mars-rover.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/finding-planet.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/finding-planet.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/new-satellitedish.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/new-satellitedish.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image3.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image3.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image4.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image4.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Shutting down the server
+INFO:root:Warning: could not shut down the socket. Maybe it was already closed?[Errno 57] Socket is not connected
+INFO:root:Starting web server
+INFO:root:Launching HTTP server on 
+INFO:root:Warning: Could not aquire port:9990
+INFO:root:I will try a higher port
+INFO:root:Launching HTTP server on 
+INFO:root:Server successfully acquired the socket with port: 8080
+INFO:root:Press Ctrl+C to shut down the server and exit.
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /index.html HTTP/1.0
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/index.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: 
+INFO:root:Request body:
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/mobile/mobile-menu.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/mobile.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/mobile/mobile-menu.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /index.html HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/contact.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/index.html
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/style.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/style.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /css/mobile.css HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/css/mobile.css
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /js/mobile.js HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/js/mobile.js
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/logo.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/logo.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/satellite.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/satellite.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image2.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image2.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image1.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image1.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.woff HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/mars-rover.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/mars-rover.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/finding-planet.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/finding-planet.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/new-satellitedish.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/new-satellitedish.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-home.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-home.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/bg-transparent1.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/bg-transparent1.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/icons.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/icons.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /fonts/audiowide-regular-webfont.ttf HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/style.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image3.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image3.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/project-image4.jpg HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/index.html
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/project-image4.jpg
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
+INFO:root:Method: GET
+INFO:root:Request body:GET /images/mobile/mobile-menu.png HTTP/1.1
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/css/mobile.css
+Cookie: Pycharm-5e277fa4=3ebe291a-68f0-498e-a873-e2ce983d8f19; _ga=GA1.1.1231831037.1508711212; _pk_id.1.1fff=ecbc9f721ff0aaf3.1508711212.6.1508737698.1508737032.
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+INFO:root:Serving web page /Users/purnima/PycharmProjects/ITP/Final_PA2/document_root_directory/images/mobile/mobile-menu.png
+INFO:root:Closing connection with client
+INFO:root:Awaiting New connection
